@@ -1,6 +1,6 @@
 ## RiotMeteorData
 
-This mixin is a convenient way to use data from a Meteor riotive data source in a Riot component, with automatic updates when the data changes.
+This mixin is a convenient way to use data from a Meteor reactive data source in a Riot component, with automatic updates when the data changes.
 
 For example:
 
