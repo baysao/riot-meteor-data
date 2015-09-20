@@ -2,6 +2,31 @@
 
 This mixin is a convenient way to use data from a Meteor reactive data source in a Riot component, with automatic updates when the data changes.
 
+##Usage
+
+In common code add this 
+
+```
+Riot.mixin('RiotMeteorData', RiotMeteorData);
+```
+
+In riot component add mixin set reactive data in 
+
+```
+this.getMeteorData = function(){
+  // preprare data here
+  return {
+  // object auto computation for reactive
+  }
+}
+```
+
+and add mixin right after this
+
+```
+this.mixin('RiotMeteorData');
+```
+
 For example:
 
 ```
