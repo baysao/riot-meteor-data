@@ -33,6 +33,7 @@ this.mixin('RiotMeteorData');
 
 this mixin run computation and update data in 
 ```this.data``` property of component context.
+Read more about explain [here](http://react-in-meteor.readthedocs.org/en/latest/meteor-data/)
 
 For example:
 
