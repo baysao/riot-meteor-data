@@ -31,7 +31,8 @@ and add mixin right after this
 this.mixin('RiotMeteorData');
 ```
 
-this mixin run computation and update data in this.data property of component context.
+this mixin run computation and update data in 
+```this.data``` property of component context.
 
 For example:
 
