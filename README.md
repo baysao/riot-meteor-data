@@ -3,6 +3,7 @@
 This mixin is a convenient way to use data from a Meteor reactive data source in a Riot component, with automatic updates when the data changes.
 
 [Demo](http://simple-todos-riot-meteor-data.meteor.com/)
+
 [Code](https://github.com/baysao/simple-todos-riot-meteor-data.git)
 
 ##Usage
