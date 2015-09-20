@@ -1,7 +1,7 @@
 Package.describe({
   name: "baysao:riot-meteor-data",
   summary: "Riotjs mixin for reactively tracking Meteor data",
-  version: '0.1.0-2',
+  version: '0.1.0-1',
   documentation: 'README.md',
   git: 'https://github.com/baysao/riot-meteor-data.git'
 });
